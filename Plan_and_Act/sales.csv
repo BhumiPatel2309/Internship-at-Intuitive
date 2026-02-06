@@ -1,0 +1,16 @@
+order_id,product,month,sales
+1,Laptop,Jan,1200
+2,Mobile,Jan,800
+3,Tablet,Jan,400
+4,Laptop,Feb,1100
+5,Mobile,Feb,850
+6,Tablet,Feb,420
+7,Laptop,Mar,1300
+8,Mobile,Mar,900
+9,Tablet,Mar,450
+10,Headphones,Jan,150
+11,Headphones,Feb,180
+12,Headphones,Mar,200
+13,Laptop,Apr,1250
+14,Mobile,Apr,870
+15,Tablet,Apr,460
